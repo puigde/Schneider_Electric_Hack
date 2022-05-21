@@ -1,7 +1,7 @@
 ## Our team 
-Marçal Comajoan Cara: 
-Pol Puigdemont Plana: polpuigdemont@gmail.com
-Jacinto Suñer Soler: 
+Marçal Comajoan Cara: <br />
+Pol Puigdemont Plana: polpuigdemont@gmail.com <br />
+Jacinto Suñer Soler: <br />
 
 ## Context 
 The EU contributes 18% of total global warming gas emissions; However, it is increasingly determined to take the lead in the fight against climate change. That is why it has set itself the goal of reaching zero carbon emissions by 2050. To this end, it has put in place a wealth of resources to help achieve this goal over the next few years, and it will need our help to do so. In this context, Scheider Electric has brought us the following challenge.
@@ -22,5 +22,5 @@ We are second and third year students at the Data Science and Engineering Degree
 ## Repo contents
 This repo contains a python notebook with the full detailed process we've gone through plus the predictions for the test data.
 
-
+## Thanks
 Developed with :) at the Schneider Electric hackathon organized by NUWE. Thank you yo all the people who made it possible and has offered us guidance during the process.
