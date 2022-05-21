@@ -17,7 +17,7 @@ We have gone trough an full data analysis process starting at data gathering (fr
 We've built it fully on python using typical tools in ML tasks.
 
 ## Learning opportunity
-We are second and third year students at the Data Science and Engineering Degree at UPC BarcelonaTech which belongs to the FIB, ETSETB and FME. ALthough this wasn't neither our first hackathon nor our first time working with Machine Learning tools having to face a real problem in this environtment has been a great learning experience. We've faced many obstacles which we have tried to sort out by discussing possible solutions and choosing the best one and we feel that this situations have put us in a great position for learning and growing as Data Scientists.
+We are second and third year students at the Data Science and Engineering Degree at UPC BarcelonaTech which belongs to the FIB, ETSETB and FME. Although this wasn't neither our first hackathon nor our first time working with Machine Learning tools having to face a real problem in this environtment has been a great learning experience. We've faced many obstacles which we have tried to sort out by discussing possible solutions and choosing the best one and we feel that this situations have put us in a great position for learning and growing as Data Scientists.
 
 ## Repo contents
 This repo contains a python notebook with the full detailed process we've gone through plus the predictions for the test data.
